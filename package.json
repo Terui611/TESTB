@@ -1,0 +1,10 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "AI-powered interactive TODO CLI manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
